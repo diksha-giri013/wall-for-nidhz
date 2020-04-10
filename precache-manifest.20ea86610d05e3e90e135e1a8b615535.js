@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c8bf2de3cc8cb068c3d716d044e2d17",
+    "revision": "6f8fed5a39fce41960f107672eb423e8",
     "url": "/wall-for-nidhz/index.html"
   },
   {
-    "revision": "9bcad8b0d86f43fb7fe3",
-    "url": "/wall-for-nidhz/static/css/main.4ef933aa.chunk.css"
+    "revision": "4f1f97282323b3f11bc8",
+    "url": "/wall-for-nidhz/static/css/main.8be212fd.chunk.css"
   },
   {
     "revision": "dcc63120013130896644",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wall-for-nidhz/static/js/2.ec487db3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bcad8b0d86f43fb7fe3",
+    "revision": "4f1f97282323b3f11bc8",
     "url": "/wall-for-nidhz/static/js/main.09e023cb.chunk.js"
   },
   {
