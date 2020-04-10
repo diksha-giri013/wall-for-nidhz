@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wall-for-nidhz/precache-manifest.e8eceef0ec777e6c8a24ff0a3d4b279c.js"
+  "/wall-for-nidhz/precache-manifest.30f774bd5e2205770fa8299a0e4b43fc.js"
 );
 
 self.addEventListener('message', (event) => {

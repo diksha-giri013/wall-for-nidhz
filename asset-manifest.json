@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wall-for-nidhz/static/css/main.5c407391.chunk.css",
+    "main.css": "/wall-for-nidhz/static/css/main.4ef933aa.chunk.css",
     "main.js": "/wall-for-nidhz/static/js/main.09e023cb.chunk.js",
     "main.js.map": "/wall-for-nidhz/static/js/main.09e023cb.chunk.js.map",
     "runtime-main.js": "/wall-for-nidhz/static/js/runtime-main.362f7d7d.js",
@@ -8,9 +8,9 @@
     "static/js/2.ec487db3.chunk.js": "/wall-for-nidhz/static/js/2.ec487db3.chunk.js",
     "static/js/2.ec487db3.chunk.js.map": "/wall-for-nidhz/static/js/2.ec487db3.chunk.js.map",
     "index.html": "/wall-for-nidhz/index.html",
-    "precache-manifest.e8eceef0ec777e6c8a24ff0a3d4b279c.js": "/wall-for-nidhz/precache-manifest.e8eceef0ec777e6c8a24ff0a3d4b279c.js",
+    "precache-manifest.30f774bd5e2205770fa8299a0e4b43fc.js": "/wall-for-nidhz/precache-manifest.30f774bd5e2205770fa8299a0e4b43fc.js",
     "service-worker.js": "/wall-for-nidhz/service-worker.js",
-    "static/css/main.5c407391.chunk.css.map": "/wall-for-nidhz/static/css/main.5c407391.chunk.css.map",
+    "static/css/main.4ef933aa.chunk.css.map": "/wall-for-nidhz/static/css/main.4ef933aa.chunk.css.map",
     "static/js/2.ec487db3.chunk.js.LICENSE.txt": "/wall-for-nidhz/static/js/2.ec487db3.chunk.js.LICENSE.txt",
     "static/media/Artboard2.png": "/wall-for-nidhz/static/media/Artboard2.b775dfca.png",
     "static/media/Artboard3.png": "/wall-for-nidhz/static/media/Artboard3.b5c08442.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.362f7d7d.js",
     "static/js/2.ec487db3.chunk.js",
-    "static/css/main.5c407391.chunk.css",
+    "static/css/main.4ef933aa.chunk.css",
     "static/js/main.09e023cb.chunk.js"
   ]
 }
