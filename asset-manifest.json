@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/wall-for-nidhz/memories/static/css/main.5a087666.chunk.css",
+    "main.js": "/wall-for-nidhz/memories/static/js/main.158bae81.chunk.js",
+    "main.js.map": "/wall-for-nidhz/memories/static/js/main.158bae81.chunk.js.map",
+    "runtime-main.js": "/wall-for-nidhz/memories/static/js/runtime-main.1f950100.js",
+    "runtime-main.js.map": "/wall-for-nidhz/memories/static/js/runtime-main.1f950100.js.map",
+    "static/js/2.ec487db3.chunk.js": "/wall-for-nidhz/memories/static/js/2.ec487db3.chunk.js",
+    "static/js/2.ec487db3.chunk.js.map": "/wall-for-nidhz/memories/static/js/2.ec487db3.chunk.js.map",
+    "index.html": "/wall-for-nidhz/memories/index.html",
+    "precache-manifest.2d4c5bed1cba5240c933986a92ff63a9.js": "/wall-for-nidhz/memories/precache-manifest.2d4c5bed1cba5240c933986a92ff63a9.js",
+    "service-worker.js": "/wall-for-nidhz/memories/service-worker.js",
+    "static/css/main.5a087666.chunk.css.map": "/wall-for-nidhz/memories/static/css/main.5a087666.chunk.css.map",
+    "static/js/2.ec487db3.chunk.js.LICENSE.txt": "/wall-for-nidhz/memories/static/js/2.ec487db3.chunk.js.LICENSE.txt",
+    "static/media/Artboard2.png": "/wall-for-nidhz/memories/static/media/Artboard2.b775dfca.png",
+    "static/media/Artboard3.png": "/wall-for-nidhz/memories/static/media/Artboard3.b5c08442.png",
+    "static/media/Artboard4.png": "/wall-for-nidhz/memories/static/media/Artboard4.4f337330.png",
+    "static/media/Artboard5.png": "/wall-for-nidhz/memories/static/media/Artboard5.5e701109.png",
+    "static/media/Artboard6.png": "/wall-for-nidhz/memories/static/media/Artboard6.7ff01742.png",
+    "static/media/Artboard7.png": "/wall-for-nidhz/memories/static/media/Artboard7.99d61b72.png",
+    "static/media/Artboard8.png": "/wall-for-nidhz/memories/static/media/Artboard8.f0910469.png",
+    "static/media/App.css": "/wall-for-nidhz/memories/static/media/footer.b4544b2d.jpg",
+    "static/media/section1.jpg": "/wall-for-nidhz/memories/static/media/section1.e6b39107.jpg",
+    "static/media/shygirl.mp3": "/wall-for-nidhz/memories/static/media/shygirl.aca3d648.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f950100.js",
+    "static/js/2.ec487db3.chunk.js",
+    "static/css/main.5a087666.chunk.css",
+    "static/js/main.158bae81.chunk.js"
+  ]
+}
